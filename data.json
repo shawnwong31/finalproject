@@ -11,7 +11,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 1,
+    "health": 0
   },
   {
     "id": 2,
@@ -25,7 +27,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 3,
@@ -39,7 +43,9 @@
     "win": 0,
     "lose": 1,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 4,
@@ -53,7 +59,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 5,
@@ -67,7 +75,9 @@
     "win": 0,
     "lose": 1,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 6,
@@ -81,7 +91,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 3
+    "random_death": 3,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 7,
@@ -95,7 +107,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 5
+    "random_death": 5,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 8,
@@ -109,7 +123,9 @@
     "win": 1,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 9,
@@ -123,7 +139,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 10,
@@ -137,7 +155,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0.5
+    "random_death": 1,
+    "items": 1,
+    "health": 0
   },
   {
     "id": 11,
@@ -151,7 +171,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 1,
-    "random_death": 0.4
+    "random_death": 1,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 12,
@@ -165,7 +187,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 1,
+    "health": 1
   },
   {
     "id": 13,
@@ -179,7 +203,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 1,
-    "random_death": 0
+    "random_death": 0,
+    "items": 1,
+    "health": 0
   },
   {
     "id": 14,
@@ -192,8 +218,10 @@
     "alternate_death": "",
     "win": 0,
     "lose": 0,
-    "stranger": 0,
-    "random_death": 0
+    "stranger": 1,
+    "random_death": 0,
+    "items": 1,
+    "health": 0
   },
   {
     "id": 15,
@@ -207,7 +235,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 0,
+    "health": 2
   },
   {
     "id": 16,
@@ -215,13 +245,15 @@
     "c1": 17,
     "c2": 18,
     "c3": 19,
-    "story": "",
+    "story": "You follow the person back to their campsite and begin looking around for ways to get off this island.",
     "nav": "Press 1 to make a smoke signal, Press 2 to find food , Press 3 to try to make a boat",
     "alternate_death": "You follow the person back to their campsite and they take all your stuff. They tie you up until you die of dehydration.",
     "win": 0,
     "lose": 0,
     "stranger": 1,
-    "random_death": 0.2
+    "random_death": 0.2,
+    "items": 1,
+    "health": 2
   },
   {
     "id": 17,
@@ -235,7 +267,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 1,
-    "random_death": 1
+    "random_death": 1,
+    "items": 0,
+    "health": 1
   },
   {
     "id": 18,
@@ -249,7 +283,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 2,
+    "health": 1
   },
   {
     "id": 19,
@@ -263,7 +299,9 @@
     "win": 1,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 20,
@@ -271,13 +309,15 @@
     "c1": 22,
     "c2": 18,
     "c3": 24,
-    "story": "You begin cooking your food on the fire and eat till you are full (+health). All of a sudden a group of people approach you since they could smell your food.",
+    "story": "You begin cooking your food on the fire and eat till you are full . All of a sudden a group of people approach you since they could smell your food.",
     "nav": "Press 1 to follow the people, Press 2 to decline and find more food, Press 3 to run away",
     "alternate_death": "",
     "win": 0,
     "lose": 0,
-    "stranger": 0,
-    "random_death": 0
+    "stranger": 1,
+    "random_death": 0,
+    "items": 0,
+    "health": 2
   },
   {
     "id": 21,
@@ -285,13 +325,15 @@
     "c1": 23,
     "c2": 18,
     "c3": 24,
-    "story": "you catch something in the trap but you are unsure if it’s an animal or a person",
+    "story": "You catch something in the trap but you are unsure if it’s an animal or a person",
     "nav": "Press 1 to investigate the trap, Press 2 to find more food, Press 3 to run away",
     "alternate_death": "",
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 22,
@@ -304,8 +346,10 @@
     "alternate_death": "",
     "win": 0,
     "lose": 0,
-    "stranger": 0,
-    "random_death": 0
+    "stranger": 1,
+    "random_death": 0,
+    "items": 1,
+    "health": 0
   },
   {
     "id": 23,
@@ -318,8 +362,10 @@
     "alternate_death": "",
     "win": 0,
     "lose": 0,
-    "stranger": 0,
-    "random_death": 0
+    "stranger": 1,
+    "random_death": 0,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 24,
@@ -333,7 +379,9 @@
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 0,
+    "health": 1
   },
   {
     "id": 25,
@@ -347,7 +395,9 @@
     "win": 0,
     "lose": 1,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 0,
+    "health": 0
   },
   {
     "id": 26,
@@ -361,6 +411,8 @@
     "win": 1,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0
+    "random_death": 0,
+    "items": 0,
+    "health": 0
   }
 ]
