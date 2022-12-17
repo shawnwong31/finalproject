@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name": "landing site",
+    "name": "at the landing site",
     "c1": 2,
     "c2": 7,
     "c3": 12,
-    "story": "You are at the crash site and begin to contemplate what to do.",
+    "story": "You land in a shrub with no plane in sight. You begin to contemplate what to do.",
     "nav": "Press 1 to find water, Press 2 look in the woods, Press 3 to find the crash site",
     "alternate_death": "",
     "win": 0,
@@ -15,11 +15,11 @@
   },
   {
     "id": 2,
-    "name": "river",
+    "name": "at the river",
     "c1": 1,
     "c2": 3,
     "c3": 4,
-    "story": "You follow the sound of the water and reach the river. It doesn’t look very clear but you are very hot.",
+    "story": "You follow the sound of running water and reach the river. It doesn’t look very clear but you are very hot.",
     "nav": "Press 1 to go back to the landing site, Press 2 to swim in the river, Press 3 to follow the river downstream",
     "alternate_death": "",
     "win": 0,
@@ -43,7 +43,7 @@
   },
   {
     "id": 4,
-    "name": "ocean",
+    "name": "at the Ocean",
     "c1": 2,
     "c2": 5,
     "c3": 6,
@@ -71,21 +71,21 @@
   },
   {
     "id": 6,
-    "name": "fishing in ocean",
+    "name": "fishing in the ocean",
     "c1": 4,
     "c2": 5,
     "c3": 6,
-    "story": "You are fishing in the ocean with your bare hands and catch a Tuna fish! You rip it apart and place it into your pockets",
+    "story": "You are fishing in the ocean with your bare hands and catch a Tuna fish! You rip it apart and place it into your satchel",
     "nav": "Press 1 to go back to the ocean, Press 2 to swim in the ocean, Press 3 to try to catch more fish in the ocean",
     "alternate_death": "You are fishing in the ocean with your bare hands and a jellyfish stings you in the butt. You become paralyzed and die from drowning.",
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0.6
+    "random_death": 3
   },
   {
     "id": 7,
-    "name": "Woods",
+    "name": "in the woods",
     "c1": 12,
     "c2": 8,
     "c3": 9,
@@ -95,11 +95,11 @@
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "random_death": 0.2
+    "random_death": 5
   },
   {
     "id": 8,
-    "name": "Hawaii",
+    "name": "in Hawaii",
     "c1": "",
     "c2": "",
     "c3": "",
@@ -113,7 +113,7 @@
   },
   {
     "id": 9,
-    "name": "Campsite",
+    "name": "at a campsite",
     "c1": 8,
     "c2": 11,
     "c3": 10,
@@ -127,7 +127,7 @@
   },
   {
     "id": 10,
-    "name": "Empty Campsite",
+    "name": "at an empty campsite",
     "c1": 8,
     "c2": 11,
     "c3": 12,
@@ -141,7 +141,7 @@
   },
   {
     "id": 11,
-    "name": "Shelter",
+    "name": "inside the shelter",
     "c1": 2,
     "c2": 12,
     "c3": 24,
@@ -155,7 +155,7 @@
   },
   {
     "id": 12,
-    "name": "Crash Site",
+    "name": "at the crash site",
     "c1": 1,
     "c2": 13,
     "c3": 14,
@@ -169,7 +169,7 @@
   },
   {
     "id": 13,
-    "name": "Cockpit",
+    "name": "in the cockpit",
     "c1": 14,
     "c2": 15,
     "c3": 16,
@@ -183,7 +183,7 @@
   },
   {
     "id": 14,
-    "name": "Body",
+    "name": "in the body of the plane",
     "c1": 13,
     "c2": 15,
     "c3": 16,
@@ -197,7 +197,7 @@
   },
   {
     "id": 15,
-    "name": "Own Campsite",
+    "name": "at your own campsite",
     "c1": 17,
     "c2": 18,
     "c3": 19,
@@ -211,7 +211,7 @@
   },
   {
     "id": 16,
-    "name": "Campsite2",
+    "name": "at someones campsite",
     "c1": 17,
     "c2": 18,
     "c3": 19,
@@ -225,21 +225,21 @@
   },
   {
     "id": 17,
-    "name": "Smoke Signal",
+    "name": "making a smoke signal",
     "c1": 2,
     "c2": 18,
     "c3": 19,
     "story": "You begin to throw a bunch of leaves onto your fire. You make lots of smoke but all of a sudden, a flock of vultures come and peck away at you.",
-    "nav": "Press 1 to find water, Press 2 to find food, Press 3 to try to make a boat",
+    "nav": "Press 1 to go back to your campsite, Press 2 to find food, Press 3 to try to make a boat",
     "alternate_death": "",
     "win": 0,
     "lose": 0,
-    "stranger": 0,
-    "random_death": 0
+    "stranger": 1,
+    "random_death": 1
   },
   {
     "id": 18,
-    "name": "Find Food",
+    "name": "finding food",
     "c1": 2,
     "c2": 20,
     "c3": 21,
@@ -253,7 +253,7 @@
   },
   {
     "id": 19,
-    "name": "Make Boat",
+    "name": "making a boat",
     "c1": "",
     "c2": "",
     "c3": "",
@@ -267,7 +267,7 @@
   },
   {
     "id": 20,
-    "name": "Cook food",
+    "name": "cooking food",
     "c1": 22,
     "c2": 18,
     "c3": 24,
@@ -281,7 +281,7 @@
   },
   {
     "id": 21,
-    "name": "Set up traps",
+    "name": "setting up a trap",
     "c1": 23,
     "c2": 18,
     "c3": 24,
@@ -295,7 +295,7 @@
   },
   {
     "id": 22,
-    "name": "Village",
+    "name": "at a village",
     "c1": 26,
     "c2": 24,
     "c3": 25,
@@ -309,7 +309,7 @@
   },
   {
     "id": 23,
-    "name": "Trap",
+    "name": "investigating your trap",
     "c1": 22,
     "c2": 24,
     "c3": 25,
@@ -323,7 +323,7 @@
   },
   {
     "id": 24,
-    "name": "Run Away",
+    "name": "running away",
     "c1": 2,
     "c2": 18,
     "c3": 15,
@@ -337,7 +337,7 @@
   },
   {
     "id": 25,
-    "name": "Kill",
+    "name": "trying to go for a kill",
     "c1": "",
     "c2": "",
     "c3": "",
@@ -351,7 +351,7 @@
   },
   {
     "id": 26,
-    "name": "Escape",
+    "name": "in Hawaii",
     "c1": "",
     "c2": "",
     "c3": "",
