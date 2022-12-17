@@ -29,7 +29,7 @@
     "stranger": 0,
     "random_death": 0,
     "items": 0,
-    "health": 0
+    "health": 1
   },
   {
     "id": 3,
@@ -61,7 +61,7 @@
     "stranger": 0,
     "random_death": 0,
     "items": 0,
-    "health": 0
+    "health": 1
   },
   {
     "id": 5,
@@ -165,7 +165,7 @@
     "c1": 2,
     "c2": 12,
     "c3": 24,
-    "story": "You enter the shelter where you see a woman still screaming. \"OMG I am so hungry!\" said the woman. \"I've been stranded on this deserted island for days and need some food and water! Can you help me?",
+    "story": "You enter the shelter where you see the person still screaming. \"OMG I've been stranded on this deserted island for days and need some food and water! If you help me, I might be able to help you!",
     "nav": "Press 1 to find water, Press 2 to look for the crash site, Press 3 run away",
     "alternate_death": "You enter the shelter where there is a crazy man with a knife. You make eye contact and he stabs you. You die.",
     "win": 0,
@@ -197,7 +197,7 @@
     "c1": 14,
     "c2": 15,
     "c3": 16,
-    "story": "",
+    "story": "You get to the cockpit and start looking around for things that might help you get off the island",
     "nav": "Press 1 to head to the body of the plane, Press 2 to start your own campsite , Press 3 to follow the person back to their campsite",
     "alternate_death": "",
     "win": 0,
@@ -213,7 +213,7 @@
     "c1": 13,
     "c2": 15,
     "c3": 16,
-    "story": "",
+    "story": "You get to the body of the plane and look around for things that might help you get off the island",
     "nav": "Press 1 to head to the cockpit of the plane, Press 2 to start your own campsite, Press 3 to follow the person back to their campsite",
     "alternate_death": "",
     "win": 0,
@@ -250,7 +250,7 @@
     "alternate_death": "You follow the person back to their campsite and they take all your stuff. They tie you up until you die of dehydration.",
     "win": 0,
     "lose": 0,
-    "stranger": 1,
+    "stranger": 0,
     "random_death": 0.2,
     "items": 1,
     "health": 2
@@ -277,7 +277,7 @@
     "c1": 2,
     "c2": 20,
     "c3": 21,
-    "story": "find food but lose health",
+    "story": "You start hunting with whatever you have to try to find some sort of food.",
     "nav": "Press 1 to find water, Press 2 cook the food, Press 3 to set up some traps",
     "alternate_death": "",
     "win": 0,
